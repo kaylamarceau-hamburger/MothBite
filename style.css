@@ -1,0 +1,29 @@
+/* Remove default list styling */
+ul {
+    list-style-type: none; /* Removes the bullet points */
+    margin: 0;            /* Removes default browser margins */
+    padding: 0;           /* Removes default browser padding */
+    overflow: hidden;     /* Clears the float property used on list items */
+    background-color: #333; /* Adds a dark background color */
+}
+
+/* Style the list items for a horizontal layout */
+li {
+    float: left; /* Floats list items to the left, placing them side-by-side */
+}
+
+/* Style the links */
+li a {
+    display: block;      /* Makes the entire link area clickable */
+    color: white;        /* Sets the text color */
+    text-align: center;  /* Centers the text within the link area */
+    padding: 14px 16px;  /* Adds space around the text */
+    text-decoration: none; /* Removes the default underline from links */
+    font-family: fraktur;
+}
+
+/* Change the color of links on hover */
+li a:hover {
+    background-color: #111; /* Changes background color when the user hovers */
+}
+
