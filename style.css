@@ -1,6 +1,6 @@
 /* Remove default list styling */
 body {
-  background: #302c30;
+  background: #302c30 !important;
   color: #fff;
   padding: 25px;
   font-family: sans-serif;
