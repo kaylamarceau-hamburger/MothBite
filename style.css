@@ -1,4 +1,11 @@
 /* Remove default list styling */
+body {
+  background: #302c30;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
 ul {
     list-style-type: none; /* Removes the bullet points */
     margin: 0;            /* Removes default browser margins */
@@ -27,10 +34,4 @@ li a:hover {
     background-color: #000; /* Changes background color when the user hovers */
 }
 
-body {
-  background: #302c30;
-  color: #fff;
-  padding: 25px;
-  font-family: sans-serif;
-}
 
