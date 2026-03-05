@@ -28,6 +28,9 @@ li a:hover {
 }
 
 body {
-    background-color: #f0f0f0; /* Replace with your color */
+  background: #302c30;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
 }
 
