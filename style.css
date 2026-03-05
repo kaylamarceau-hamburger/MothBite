@@ -11,7 +11,7 @@ ul {
     margin: 0;            /* Removes default browser margins */
     padding: 0;           /* Removes default browser padding */
     overflow: hidden;     /* Clears the float property used on list items */
-    background-color: #333; /* Adds a dark background color */
+    background-color: #000; /* Adds a dark background color */
 }
 
 /* Style the list items for a horizontal layout */
