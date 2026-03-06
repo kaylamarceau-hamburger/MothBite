@@ -34,4 +34,10 @@ li a:hover {
     background-color: ##9901cc; /* Changes background color when the user hovers */
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* Optional: defines the width of the image */
+}
 
