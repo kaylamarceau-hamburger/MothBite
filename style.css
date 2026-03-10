@@ -41,3 +41,9 @@ img {
   width: 50%; /* Optional: defines the width of the image */
 }
 
+.center-div {
+  width: 50%; /* Optional: set a specific width */
+  margin: 0 auto; /* Centers the block horizontally */
+}
+
+
