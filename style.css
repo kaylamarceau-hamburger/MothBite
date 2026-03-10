@@ -31,7 +31,7 @@ li a {
 
 /* Change the color of links on hover */
 li a:hover {
-    background-color: ##9901cc; /* Changes background color when the user hovers */
+    background-color: #b100ff; /* Changes background color when the user hovers */
 }
 
 img {
